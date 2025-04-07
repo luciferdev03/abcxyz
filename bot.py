@@ -56,7 +56,7 @@ ongoing_attacks = []
 
 # Slot tracking
 
-max_attack_slots = 20
+max_attack_slots = 2000
 
 current_attack_slots = 0
 
@@ -244,7 +244,7 @@ def attack_command(message):
 
         # Imgur link (replace with your actual image link)
 
-        imgur_link = "https://i.imgur.com/504iufB.png"
+        imgur_link = "https://i.imgur.com/FHuLh9D.jpeg"
 
 
 
